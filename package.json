@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Homework - Was due Thursday 09/21/2017. Moved to Tuesday 09/26/2017",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpeteet/liri-node-app.git"
+  },
+  "author": "Larry S. Peteet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpeteet/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/lpeteet/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.82.0",
+    "twitter": "^1.7.1"
+  }
+}
